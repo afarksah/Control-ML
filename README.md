@@ -1,2 +1,2 @@
 # Control-ML
-control mobile legend game skills in keyboard
+control mobile legend game skills on screen by determining the pixel coordinates of the mouse cursor
